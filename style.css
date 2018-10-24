@@ -1157,7 +1157,6 @@ pre code {
 }
 
 .site-title a:before {
-	display: none;
 	max-width: 400px;
 	height: 250px;
 	margin-left: auto;
