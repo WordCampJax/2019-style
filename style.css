@@ -1611,11 +1611,12 @@ pre code {
 }
 
 #colophon {
-	max-width: 50rem;
+	max-width: 75vw;
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 3rem;
 	text-align: center;
+	background-color:#ffffff;
 }
 
 .site-info-generator {
