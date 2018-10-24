@@ -1744,8 +1744,12 @@ pre code {
 	display: inline;
 }
 
-#post-3 div.wp-block-columns > div:first-child {
+#post-3 div.wp-block-columns > div {
 	width:25% !important;
+}
+
+#post-3 div.wp-block-columns > div div {
+	width:75% !important;
 }
 
 .entry-footer {
