@@ -63,7 +63,7 @@
 }
 
 .cc--var-local-copper .cc__variable:after {
-	content: "#6f943e";
+	content: "#3bb6ad";
 }
 
 .cc--var-local-purple:after {
@@ -127,7 +127,7 @@
 }
 
 .cc--var-color-link .cc__variable:after {
-	content: "#6f943e";
+	content: "#3bb6ad";
 }
 
 .cc--var-color-link-focus:after {
@@ -283,11 +283,11 @@
 }
 
 .cc--var-color-border-strong:after {
-	background-color: #6f943e;
+	background-color: #3bb6ad;
 }
 
 .cc--var-color-border-strong .cc__variable:after {
-	content: "#6f943e";
+	content: "#3bb6ad";
 }
 
 .cc--var-color-message-default:after {
@@ -371,11 +371,11 @@
 }
 
 .cc--var-color-input-checkbox-active:after {
-	background-color: #6f943e;
+	background-color: #3bb6ad;
 }
 
 .cc--var-color-input-checkbox-active .cc__variable:after {
-	content: "#6f943e";
+	content: "#3bb6ad";
 }
 
 .cc--var-color-input-radio:after {
@@ -387,11 +387,11 @@
 }
 
 .cc--var-color-input-radio-active:after {
-	background-color: #6f943e;
+	background-color: #3bb6ad;
 }
 
 .cc--var-color-input-radio-active .cc__variable:after {
-	content: "#6f943e";
+	content: "#3bb6ad";
 }
 
 /*! normalize.css v4.1.1 | MIT License | github.com/necolas/normalize.css */
@@ -625,7 +625,7 @@ h2 {
 }
 
 h2,h3 {
-	color: #6f943e /*rgba(29,36,42,.9)*/;
+	color: #3bb6ad /*rgba(29,36,42,.9)*/;
 }
 
 h3 {
@@ -707,18 +707,18 @@ select {
 }
 
 a {
-	color: #6f943e;
+	color: #3bb6ad;
 	text-decoration: none;
 	transition: all .15s ease;
 }
 
 a:focus,a:hover {
-	color: #6f943e;
+	color: #3bb6ad;
 	text-decoration: underline;
 }
 
 a:active {
-	color: #6f943e;
+	color: #3bb6ad;
 	text-decoration: none;
 }
 
@@ -1054,7 +1054,7 @@ pre code {
 
 .button.button--primary,button.button--primary,input[type=button].button--primary,input[type=reset].button--primary,input[type=submit].button--primary {
 	color: rgba(29,36,42,.75);
-	background-color: #6f943e;
+	background-color: #3bb6ad;
 }
 
 .button.button--primary:active,.button.button--primary:focus,.button.button--primary:hover,button.button--primary:active,button.button--primary:focus,button.button--primary:hover,input[type=button].button--primary:active,input[type=button].button--primary:focus,input[type=button].button--primary:hover,input[type=reset].button--primary:active,input[type=reset].button--primary:focus,input[type=reset].button--primary:hover,input[type=submit].button--primary:active,input[type=submit].button--primary:focus,input[type=submit].button--primary:hover {
@@ -1149,14 +1149,14 @@ pre code {
 }
 
 .site-title a:active,.site-title a:focus,.site-title a:hover {
-	color: #6f943e;
+	color: #3bb6ad;
 	text-decoration: none;
 	font-size: 0;
 	line-height: 0;
 }
 
 .site-title a:before {
-	display: block;
+	display: none; /* remove for 2019 */
 	max-width: 400px;
 	height: 250px;
 	margin-left: auto;
