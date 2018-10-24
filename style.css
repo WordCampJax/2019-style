@@ -1144,19 +1144,20 @@ pre code {
 
 .site-title a {
 	display: block;
-	color: #e36565;
+	color: #F26526;
 	font-size: 0;
 	line-height: 0;
 }
 
 .site-title a:active,.site-title a:focus,.site-title a:hover {
-	color: #3bb6ad;
+	color: #6f943e;
 	text-decoration: none;
 	font-size: 0;
 	line-height: 0;
 }
 
 .site-title a:before {
+	display: block;
 	max-width: 400px;
 	height: 250px;
 	margin-left: auto;
@@ -1184,9 +1185,9 @@ pre code {
 .site-header {
 	position: relative;
 	background-repeat: no-repeat;
-	background-position: 0% 0;
+	background-position: 50% 0;
 	background-size: fixed;
-	background-image: url('https://2019.jacksonville.wordcamp.org/files/2018/10/main-banner.jpg');
+	background-image: url('https://2018.jacksonville.wordcamp.org/files/2017/12/cowscape_small.jpg');
 	transition: all .15s ease;
 }
 
@@ -1204,7 +1205,7 @@ pre code {
 	left: 0;
 	bottom: 0;
 	right: 0;
-/*	background-color: rgba(45,40,45,.6);
+/*	background-color: rgba(45,40,45,.6); */
 	background: rgba(0,0,0,0);
 	background: -moz-linear-gradient(top, rgba(0,0,0,0) 40%, rgba(0,0,0,0.95) 100%);
 	background: -webkit-gradient(left top, left bottom, color-stop(40%, rgba(0,0,0,0)), color-stop(100%, rgba(0,0,0,0.75)));
