@@ -1658,18 +1658,18 @@ pre code {
 
 #primary {
 	text-align: left;
-	padding: 1.5rem 1rem;
+	/* padding: 1.5rem 1rem;*/
 }
 
 @media (min-width:37.5em) {
 	#primary {
-		padding: 3rem 2rem;
+	/*	padding: 3rem 2rem; */
 	}
 }
 
 @media (min-width:48em) {
 	#primary {
-		padding: 4.5rem 3rem;
+	/*	padding: 4.5rem 3rem; */
 	}
 }
 
