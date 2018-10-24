@@ -1724,6 +1724,7 @@ pre code {
 }
 
 .entry-meta {
+	display: none;
 	margin-bottom: 1rem;
 }
 
