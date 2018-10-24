@@ -1744,6 +1744,10 @@ pre code {
 	display: inline;
 }
 
+#post-3 .wp-block-columns:first-child {
+	width:25% !important;
+}
+
 .entry-footer {
 	margin-bottom: 1.5rem;
 	font-size: 16px;
