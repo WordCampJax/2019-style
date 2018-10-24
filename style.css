@@ -1745,7 +1745,8 @@ pre code {
 }
 
 #post-3 div.wp-block-columns > *:first-child {
-	width:25% !important;
+	flex: auto !important;
+	text-align:center;
 }
 
 #post-3 div.wp-block-columns > *:nth-child(2){
