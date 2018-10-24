@@ -1745,12 +1745,12 @@ pre code {
 }
 
 #post-3 div.wp-block-columns > *:first-child {
-	flex: auto !important;
+	flex: 1 !important;
 	text-align:center;
 }
 
 #post-3 div.wp-block-columns > *:nth-child(2){
-	width:75% !important;
+	flex: 2 !important;
 }
 
 .entry-footer {
