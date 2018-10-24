@@ -1744,11 +1744,11 @@ pre code {
 	display: inline;
 }
 
-#post-3 div.wp-block-columns > div {
+#post-3 div.wp-block-columns > *:first-child {
 	width:25% !important;
 }
 
-#post-3 div.wp-block-columns > div div {
+#post-3 div.wp-block-columns > *:nth-child(2){
 	width:75% !important;
 }
 
