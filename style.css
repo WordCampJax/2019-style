@@ -1723,6 +1723,10 @@ pre code {
 	text-decoration: none;
 }
 
+.entry-header {
+display:none;
+}
+
 .entry-meta {
 	display: none;
 	margin-bottom: 1rem;
