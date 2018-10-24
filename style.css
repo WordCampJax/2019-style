@@ -1157,7 +1157,7 @@ pre code {
 }
 
 .site-title a:before {
-	display: none; /* remove for 2019 */
+	display: none;
 	max-width: 400px;
 	height: 250px;
 	margin-left: auto;
@@ -1165,7 +1165,7 @@ pre code {
 	margin-bottom: .9rem;
 	background-repeat: no-repeat;
 	background-position: 50% 50%;
-	background-image: url('https://2018.jacksonville.wordcamp.org/files/2017/12/orangelogo_transparent.png');
+	background-image: url('https://2019.jacksonville.wordcamp.org/files/2018/10/logo-black-pink.png');
 	background-size: 100%;
 	content: "";
 }
