@@ -580,7 +580,7 @@ body {
 	line-height: 1.5625em;
 	font-family: ingra, Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
 	color: rgba(29,36,42,.75);
-	background: #fff;
+	background: #f6bf66;
 	font-feature-settings: liga;
 }
 
@@ -4143,8 +4143,9 @@ section#wcb_sponsors-3:after{
 }
 
 main {
-	border-bottom: 6px double #e36565;
+	/* border-bottom: 6px double #e36565; */
 	padding-bottom: 1em;
+	background-color:#ffffff;
 }
 
 /** fixing z-indexes on header **/
