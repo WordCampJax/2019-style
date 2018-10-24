@@ -1184,7 +1184,7 @@ pre code {
 .site-header {
 	position: relative;
 	background-repeat: no-repeat;
-	background-position: 50% 0;
+	background-position: 0% 0;
 	background-size: fixed;
 	background-image: url('https://2019.jacksonville.wordcamp.org/files/2018/10/main-banner.jpg');
 	transition: all .15s ease;
@@ -1204,7 +1204,7 @@ pre code {
 	left: 0;
 	bottom: 0;
 	right: 0;
-/*	background-color: rgba(45,40,45,.6); */
+/*	background-color: rgba(45,40,45,.6);
 	background: rgba(0,0,0,0);
 	background: -moz-linear-gradient(top, rgba(0,0,0,0) 40%, rgba(0,0,0,0.95) 100%);
 	background: -webkit-gradient(left top, left bottom, color-stop(40%, rgba(0,0,0,0)), color-stop(100%, rgba(0,0,0,0.75)));
