@@ -4230,6 +4230,7 @@ margin-top:40px;
 background-image: none !important;
 padding:15px !important;
 text-transform:uppercase;
+width:100% !important;
 }
 
 #meetup_oembed .mu_button {
