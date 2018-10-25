@@ -1753,6 +1753,8 @@ display:none;
 	display: inline;
 }
 
+@media (min-width:37.5em) {
+
 div.wp-block-columns > *:first-child {
 	flex: 1 !important;
 	text-align:center;
@@ -1760,6 +1762,7 @@ div.wp-block-columns > *:first-child {
 
 div.wp-block-columns > *:nth-child(2){
 	flex: 2 !important;
+}
 }
 
 .entry-footer {
