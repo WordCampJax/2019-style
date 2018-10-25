@@ -1415,6 +1415,7 @@ pre code {
 
 	.main-navigation.toggled-on .menu {
 		display: block;
+		background-color: #2d282d;
 		z-index: 1000;
 	}
 }
