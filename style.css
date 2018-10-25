@@ -3147,7 +3147,7 @@ div.googlemaps iframe {
 	position: relative;
 	display: block;
 	padding: 1rem 1.5rem;
-	padding-top: 4.25rem;
+	padding-top: 7rem;
 	color: rgba(0,0,0,.8);
 	border-radius: .1875rem;
 	text-decoration: none;
@@ -3158,12 +3158,12 @@ div.googlemaps iframe {
 }
 
 .list-social a:before {
-	transform: translateX(-50%) rotate(45deg);
+	/*transform: translateX(-50%) rotate(45deg);
 	display: block;
 	width: 2.25rem;
 	height: 2.25rem;
-	/*border: 6px double #614787;*/
-	transition: all .1s ease;
+	border: 6px double #614787;
+	transition: all .1s ease;*/
 }
 
 .list-social a:after,.list-social a:before {
@@ -3175,17 +3175,17 @@ div.googlemaps iframe {
 
 .list-social a:after {
 	transform: translateX(-50%);
-	width: 3rem;
-	height: 3rem;
+	width: 7rem;
+	height: 7rem;
 	background-position: 50% 50%;
 	background-repeat: no-repeat;
-	background-size: 36px;
+	background-size: 86px;
 }
 
 .list-social a:active,.list-social a:focus,.list-social a:hover {
 	text-decoration: none;
 	color: hsla(0,0%,100%,.9);
-	background-color: #614787;
+	/*background-color: #614787;*/
 }
 
 .list-social a:active:before,.list-social a:focus:before,.list-social a:hover:before {
