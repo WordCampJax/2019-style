@@ -4207,3 +4207,13 @@ main {
 #meetup_oembed {
 max-width: 500px;
 }
+
+#meetup_oembed h3 {
+font-family:Arial, san-serif;
+}
+
+#meetup_oembed a.mu_button {
+background-color:#42bab3;
+border:2px solid #42bab3 !important;
+margin-top:40px;
+}
