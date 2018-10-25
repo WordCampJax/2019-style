@@ -1616,7 +1616,11 @@ pre code {
 	margin-right: auto;
 	margin-top: 3rem;
 	text-align: center;
-	background-color:#ffffff;
+	/*background-color:#ffffff;*/
+}
+
+.custom-html-2 { 
+background-color:#f6bf65;
 }
 
 .site-info-generator {
@@ -3158,7 +3162,7 @@ div.googlemaps iframe {
 	display: block;
 	width: 2.25rem;
 	height: 2.25rem;
-	border: 6px double #614787;
+	/*border: 6px double #614787;*/
 	transition: all .1s ease;
 }
 
@@ -3185,20 +3189,20 @@ div.googlemaps iframe {
 }
 
 .list-social a:active:before,.list-social a:focus:before,.list-social a:hover:before {
-	background-color: #c0b5cf;
-	border-color: #c0b5cf;
+	background-color: #3db9b1;
+	border-color: #3db9b1;
 }
 
 .list-social .social-twitter a:after {
-	background-image: url('https://cdn1.iconfinder.com/data/icons/iconza-circle-social/64/697029-twitter-512.png');
+	background-image: url('https://2019.jacksonville.wordcamp.org/files/2018/10/icon-twitter.png');
 }
 
 .list-social .social-facebook a:after {
-	background-image: url('https://2017.europe.wordcamp.org/files/2016/11/icon-facebook.png');
+	background-image: url('https://2019.jacksonville.wordcamp.org/files/2018/10/icon-facebook.png');
 }
 
 .list-social .social-instagram a:after {
-	background-image: url('https://2017.europe.wordcamp.org/files/2017/06/icon-instagram.png');
+	background-image: url('https://2019.jacksonville.wordcamp.org/files/2018/10/icon-instagram.png');
 }
 
 #text-5 {
