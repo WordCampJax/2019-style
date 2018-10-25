@@ -4204,6 +4204,7 @@ main {
 	margin-right: auto;
 }
 
+@media (min-width: 48em) {
 #meetup_oembed {
 max-width: 500px;
 padding:20px; !important;
@@ -4234,4 +4235,5 @@ margin-top:40px;
 
 .wp-block-embed-meetup-com {
 margin-left:25% !important;
+}
 }
