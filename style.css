@@ -3021,14 +3021,6 @@ div.googlemaps iframe {
 	content: "";
 }
 
-.widget_text {
-	background-color: #fff;
-}
-
-.widget_text:before {
-	background-color: #fff !important;
-}
-
 .widget_wcorg_mailchimp_wiget label {
 	color: hsla(0,0%,100%,.8);
 	text-align: left;
@@ -3101,10 +3093,6 @@ div.googlemaps iframe {
 	.widget_wcorg_mailchimp_wiget #subscribe-email{
 		width: 25rem;
 	}
-}
-
-#custom-html-2 .widget_text {
-background-color:#f2f2f2;
 }
 
 .list-social {
