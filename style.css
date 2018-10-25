@@ -1511,7 +1511,7 @@ pre code {
 }
 
 .menu-item-has-children {
-	background-color: rgba(45,40,45,.6);
+	background-color: #f5bf67;
 }
 
 .menu-item-has-children .dropdown-toggle {
