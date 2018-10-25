@@ -3479,14 +3479,14 @@ div.googlemaps iframe {
 
 #content-widget-1:before {
 	background-image: url('https://2017.europe.wordcamp.org/files/2017/01/background-pattern-01.png');
-	background-color: #f5ebe0 !important;
+	background-color: #f6be65 !important;
 	background-size: 120px;
 	background-attachment: fixed;
 	background-position: 50% 0;
 }
 
 #content-widget-2:before,#content-widget-3:before,#content-widget-4:before {
-	border-top: 1px solid #f5ebe0;
+	border-top: 1px solid #f6be65;
 }
 
 #content-widget-5 {
@@ -3995,6 +3995,10 @@ section#wcb_sponsors-3:after{
 	clear: both;
 }
 
+.sponsor-logo {
+max-width:300px;
+}
+
 .sponsor-level.prime a.sponsor-logo img,
 .sponsor-level.choice a.sponsor-logo img {
 	display: block;
@@ -4053,7 +4057,7 @@ section#wcb_sponsors-3:after{
 		padding-left: 5%;
 		padding-right: 5%;
 		margin-top: 1em;
-		border: solid 4px #ff9505;
+		border: solid 4px #f6c169;
 		margin-left: 2em;
 		margin-bottom: 2em;
 		margin-right: 2em;
