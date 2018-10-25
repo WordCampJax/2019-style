@@ -1096,6 +1096,10 @@ pre code {
 	.site-branding {
 		background-image: url('https://2019.jacksonville.wordcamp.org/files/2018/10/logo-black-pink.png');
 	background-size: 100%;
+	background-repeat: no-repeat;
+	background-color:#3cb7af;
+	background-position: 8px;
+	min-height:350px;
 	}
 }
 
@@ -1344,8 +1348,9 @@ pre code {
 }
 
 .menu-toggle,.menu-toggle.focus,.menu-toggle:active,.menu-toggle:focus,.menu-toggle:hover {
-	color: #e36565;
-	background-color: rgba(45,40,45,.9);
+	color: #ffffff;
+	background-color: #f5bd65;
+	margin-top: 20px;
 }
 
 .menu-toggle:before {
@@ -1369,7 +1374,7 @@ pre code {
 }
 
 .menu-toggle[aria-expanded=true] {
-	color: #3cb5ad;
+	color: #ffffff;
 }
 
 .menu-toggle[aria-expanded=true]:after {
@@ -1441,7 +1446,7 @@ pre code {
 
 @media (max-width:37.4375em) {
 	.menu {
-		border-top: 1px solid hsla(0,0%,100%,.2);
+		/*border-top: 1px solid hsla(0,0%,100%,.2);*/
 		display: none;
 		z-index: 1000;
 	}
@@ -1477,7 +1482,7 @@ pre code {
 .menu-item a {
 	display: block;
 	color: #ffffff;
-	padding: .5rem 1rem;
+	padding: 1rem 1rem;
 	text-decoration: none;
 	transition: all .1s ease;
 }
@@ -1566,7 +1571,7 @@ pre code {
 
 @media (max-width:37.4375em) {
 	.sub-menu a {
-		padding-left: 2.5rem;
+		/*padding-left: 2.5rem;*/
 		background-image: url('https://2017.europe.wordcamp.org/files/2017/01/decoration-bullet-color.png');
 		background-repeat: no-repeat;
 		background-size: 12px;
