@@ -1753,12 +1753,12 @@ display:none;
 	display: inline;
 }
 
-#post-3 div.wp-block-columns > *:first-child {
+div.wp-block-columns > *:first-child {
 	flex: 1 !important;
 	text-align:center;
 }
 
-#post-3 div.wp-block-columns > *:nth-child(2){
+div.wp-block-columns > *:nth-child(2){
 	flex: 2 !important;
 }
 
