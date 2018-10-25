@@ -1408,14 +1408,14 @@ pre code {
 
 @media (max-width:37.4375em) {
 	.main-navigation {
-		background-color: #2d282d;
+		background-color: #f5bd66;
 		padding-top: 7rem;
 		margin-top: -130px;
 	}
 
 	.main-navigation.toggled-on .menu {
 		display: block;
-		background-color: #2d282d;
+		background-color: #f5bd66;
 		z-index: 1000;
 	}
 }
