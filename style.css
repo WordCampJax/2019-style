@@ -1092,6 +1092,13 @@ pre code {
 	background-color: #2d282d;
 }
 
+@media (max-width:37.5em) {
+	.site-branding {
+		background-image: url('https://2019.jacksonville.wordcamp.org/files/2018/10/logo-black-pink.png');
+	background-size: 100%;
+	}
+}
+
 .site-header .site-branding {
 	position: relative;
 	overflow: hidden;
