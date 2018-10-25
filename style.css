@@ -1694,7 +1694,7 @@ background-color:#f6bf65;
 .post {
 	margin-bottom: 1.5rem;
 	padding-bottom: 1.5rem;
-	border-bottom: 6px double #f5ebe0;
+	border-bottom: 6px double #f5bf67;
 }
 
 .post:after,.post:before {
@@ -1704,6 +1704,10 @@ background-color:#f6bf65;
 
 .post:after {
 	clear: both;
+}
+
+.entry-header { /* disables linked title since home is the news section */
+pointer-events: none;
 }
 
 .entry-content {
