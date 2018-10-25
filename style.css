@@ -3100,6 +3100,10 @@ div.googlemaps iframe {
 	}
 }
 
+#custom-html-2 .widget_text {
+background-color:#f2f2f2;
+}
+
 .list-social {
 	list-style: none;
 	margin: 0;
