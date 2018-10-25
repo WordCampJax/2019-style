@@ -1449,6 +1449,7 @@ pre code {
 		/*border-top: 1px solid hsla(0,0%,100%,.2);*/
 		display: none;
 		z-index: 1000;
+		padding:0;
 	}
 
 	.toggled-on .menu {
