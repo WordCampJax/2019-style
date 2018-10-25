@@ -4209,7 +4209,7 @@ max-width: 500px;
 padding:20px; !important;
 }
 
-#meetup_oembed p:lastchild {
+#meetup_oembed p:last-child {
 margin-top:30px !important;
 }
 
