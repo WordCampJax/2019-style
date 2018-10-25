@@ -4206,6 +4206,7 @@ main {
 
 #meetup_oembed {
 max-width: 500px;
+padding:20px; !important;
 }
 
 #meetup_oembed p:lastchild {
@@ -4213,7 +4214,7 @@ margin-top:30px !important;
 }
 
 #meetup_oembed h3 {
-font-family:ingra, Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
+font-family:ingra, Helvetica Neue, Helvetica, Roboto, Arial, sans-serif !important;;
 }
 
 #meetup_oembed a.mu_button {
