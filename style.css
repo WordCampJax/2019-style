@@ -3184,7 +3184,7 @@ div.googlemaps iframe {
 
 .list-social a:active,.list-social a:focus,.list-social a:hover {
 	text-decoration: none;
-	color: hsla(0,0%,100%,.9);
+	color: #3db9b1;
 	/*background-color: #614787;*/
 }
 
