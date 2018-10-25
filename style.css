@@ -4214,6 +4214,11 @@ padding:20px; !important;
 margin-top:30px !important;
 }
 
+.wp-block-embed-meetup-com {
+margin-left:25% !important;
+}
+}
+
 #meetup_oembed h3 {
 font-family:ingra, Helvetica Neue, Helvetica, Roboto, Arial, sans-serif !important;;
 }
@@ -4231,9 +4236,4 @@ text-transform:uppercase;
 background-color:#42bab3 !important;
 border:2px solid #42bab3 !important;
 margin-top:40px;
-}
-
-.wp-block-embed-meetup-com {
-margin-left:25% !important;
-}
 }
