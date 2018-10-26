@@ -1482,14 +1482,14 @@ pre code {
 
 .menu-item a {
 	display: block;
-	color: #ffffff;
+	color: #000000;
 	padding: 1rem 1rem;
 	text-decoration: none;
 	transition: all .1s ease;
 }
 
 .menu-item a.focus,.menu-item a:active,.menu-item a:focus,.menu-item a:hover {
-	color: #ffffff;
+	color: #000000;
 	background-color: #3cb5ad;
 }
 
@@ -1506,7 +1506,7 @@ pre code {
 }
 
 .current-menu-item>a {
-	color: #ffffff;
+	color: #000000;
 	background-color: #e36565;
 }
 
@@ -1606,7 +1606,7 @@ pre code {
 
 	.sub-menu a {
 		padding: .625rem 1rem;
-		color: #ffffff;
+		color: #000000;
 	}
 }
 
@@ -1614,7 +1614,7 @@ pre code {
 	.sub-menu a {
 		padding-left: 1.5rem;
 		padding-right: 1.5rem;
-		color: #ffffff;
+		color: #000000;
 	}
 }
 
@@ -1622,7 +1622,7 @@ pre code {
 	.sub-menu a {
 		padding-left: 2rem;
 		padding-right: 2rem;
-		color: #ffffff;
+		color: #000000;
 	}
 }
 
