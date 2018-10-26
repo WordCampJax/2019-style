@@ -617,7 +617,7 @@ h1,h2,h3,h4 {
 
 h1 {
 	font-size: 2.44141em;
-	color: #3cb5ad;
+	color: #34A29A;
 }
 
 h2 {
@@ -727,7 +727,7 @@ p {
 	margin-bottom: 1.5rem;
 	font-size: .9em;
 	line-height: 1.5625em;
-	color: rgba(29,36,42,.75);
+	color: #333333;
 }
 
 @media (min-width:37.5em) {
