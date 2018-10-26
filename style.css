@@ -1029,7 +1029,7 @@ pre code {
 	font-size: 1em;
 	line-height: 1.5625em;
 	text-align: center;
-	color: rgba(29,36,42,.75);
+	color: #000000;
 	font-family: ingra, Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
 	font-weight: 700;
 	text-decoration: none;
@@ -1055,7 +1055,7 @@ pre code {
 
 .button.button--primary,button.button--primary,input[type=button].button--primary,input[type=reset].button--primary,input[type=submit].button--primary {
 	color: rgba(29,36,42,.75);
-	background-color: #3bb6ad;
+	background-color: #34A29A;
 }
 
 .button.button--primary:active,.button.button--primary:focus,.button.button--primary:hover,button.button--primary:active,button.button--primary:focus,button.button--primary:hover,input[type=button].button--primary:active,input[type=button].button--primary:focus,input[type=button].button--primary:hover,input[type=reset].button--primary:active,input[type=reset].button--primary:focus,input[type=reset].button--primary:hover,input[type=submit].button--primary:active,input[type=submit].button--primary:focus,input[type=submit].button--primary:hover {
