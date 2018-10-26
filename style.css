@@ -579,7 +579,7 @@ body {
 	font-size: 1em;
 	line-height: 1.5625em;
 	font-family: ingra, Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
-	color: rgba(29,36,42,.75);
+	color: #333333;
 	background: #f2f2f2;
 	font-feature-settings: liga;
 }
@@ -625,7 +625,7 @@ h2 {
 }
 
 h2,h3 {
-	color: #3bb6ad /*rgba(29,36,42,.9)*/;
+	color: #34A29A /*rgba(29,36,42,.9)*/;
 }
 
 h3 {
@@ -707,18 +707,18 @@ select {
 }
 
 a {
-	color: #3bb6ad;
+	color: #34A29A;
 	text-decoration: none;
 	transition: all .15s ease;
 }
 
 a:focus,a:hover {
-	color: #3bb6ad;
+	color: #34A29A;
 	text-decoration: underline;
 }
 
 a:active {
-	color: #3bb6ad;
+	color: #34A29A;
 	text-decoration: none;
 }
 
