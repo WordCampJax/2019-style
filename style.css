@@ -3201,13 +3201,13 @@ div.googlemaps iframe {
 
 .list-social a:active,.list-social a:focus,.list-social a:hover {
 	text-decoration: none;
-	color: #3db9b1;
+	color: #34A29A;
 	/*background-color: #614787;*/
 }
 
 .list-social a:active:before,.list-social a:focus:before,.list-social a:hover:before {
-	background-color: #3db9b1;
-	border-color: #3db9b1;
+	background-color: #34A29A;
+	border-color: #34A29A;
 }
 
 .list-social .social-twitter a:after {
