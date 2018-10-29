@@ -707,18 +707,18 @@ select {
 }
 
 a {
-	color: #34A29A;
+	color: #24706B;
 	text-decoration: none;
 	transition: all .15s ease;
 }
 
 a:focus,a:hover {
-	color: #34A29A;
+	color: #24706B;
 	text-decoration: underline;
 }
 
 a:active {
-	color: #34A29A;
+	color: #24706B;
 	text-decoration: none;
 }
 
