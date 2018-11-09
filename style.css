@@ -2,6 +2,10 @@
 
 /* Originally based on custom CSS from 2017.kualalumpur.wordcamp.org */
 
+p.wcjax-footnote {
+    font-size: .5em;
+}
+
 .wcorg-speaker p {
 	font-weight: 400;
 	text-transform: none;
