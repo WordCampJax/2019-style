@@ -5,6 +5,9 @@
 p.wcjax-footnote {
     font-size: .5em;
 }
+img.wcjax-footnote {
+	margin-bottom: 0;
+}
 
 .wcorg-speaker p {
 	font-weight: 400;
