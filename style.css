@@ -1845,6 +1845,17 @@ div.wp-block-columns > *:nth-child(2){
 	min-height: 3rem;
 }
 
+.wcorg-organizers h3 {
+	font-size: 1em;
+	text-transform: none;
+	color: rgba(29,36,42,.9);
+}
+
+.wcorg-organizers p {
+	padding-bottom: .5em;
+}
+
+
 @media (min-width:37.5em) {
 	.wcorg-organizer .wcorg-organizer-description {
 		padding-left: 6rem;
