@@ -1845,10 +1845,9 @@ div.wp-block-columns > *:nth-child(2){
 	min-height: 3rem;
 }
 
-.wcorg-organizers h3 {
-	font-size: 1em;
-	text-transform: none;
-	color: rgba(29,36,42,.9);
+.wcorg-organizers .wpjax_role {
+	font-style: oblique;
+	font-weight: bold;
 }
 
 .wcorg-organizers p {
